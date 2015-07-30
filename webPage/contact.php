@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Mixteca Exterior</title>
+	<title>Mixteca Exterior - Contacto</title>
 	<?php include 'inc/head_common.php'; ?>
 </head>
 <body>
