@@ -1,0 +1,191 @@
+
+.workshop {
+	width: 100%;
+	min-height: 450px;
+	padding: 10px 0;
+	
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	font-weight: 300;	
+}
+
+.workshop p {
+	font-size: 18px;
+	font-size: 1.8rem;
+}
+
+.workshop a, 
+.workshop a:hover {
+	color: #fff;
+	font-weight: 400;
+}
+
+#hospitals-partners{
+	padding-bottom:  10px;
+	padding-top: 20px;
+}
+.main-info {
+	
+}
+
+.main-info h2 {
+	margin: 0 0 20px 0;
+	font-size: 36px;
+	font-size: 3.6rem;
+	line-height: 36px;
+	line-height: 3.6rem;
+	color: #fff;
+	font-weight: 300;
+}
+
+.main-info p {
+	margin-bottom: 20px;
+	font-size: 18px;
+	font-size: 1.8rem;
+	line-height: 18;
+	line-height: 1.8rem;
+	font-weight: 400;
+}
+
+.date-info {
+	margin-top: 20px;
+}
+
+.date-info h3 {
+	display: inline-block;
+	padding: 3px 10px;
+	margin: 0 0 4px 0;
+	
+	color: #fff;
+	font-weight: 200;
+	text-transform: uppercase;
+
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.2);
+    /* For IE 8*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#aa000000, endColorstr=#aa000000)";
+}
+#main-container h3{
+	font-weight: 400;
+	background-color: #87C540;
+	min-height: 50px;
+	padding-left: 2px;
+	padding-right: 2px;
+	vertical-align:middle;
+	margin: auto;	
+}
+#main-container p{
+	background-color: #eee;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+.date-info h3 > strong {
+	margin-right: 10px;
+}
+
+.workshop .btn,
+.workshop .btn:hover {
+	padding: 10px 35px;
+	color: #fff;
+}
+
+.more-info-link {
+	margin: 0 15px;
+}
+
+#main-image {
+	background-image: url('../img/doctores.jpg');
+}
+
+#main-image p {
+	color: #B25900;
+}
+
+#main-image p > a {
+	color: #661900;
+}
+
+#main-image .btn {
+	background-color: #0065bb;
+}
+
+#main-image h2 {
+	font-weight: 100;
+	color: #0065bb;
+}
+#main-news {
+	min-height: 300px;
+}
+#main-news h3{
+	font-weight: 400;
+	background-color: #87C540;
+	min-height: 50px;
+	padding-left: 2px;
+	padding-right: 2px;
+	vertical-align:middle;
+	margin: auto;	
+}
+#main-news p{
+	background-color: #eee;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+#w2 {
+	background-image: url('../img/bg_ws_02.png');
+}
+
+	#w2 p {
+		color: #FFA5A5;
+	}
+
+	#w2 p > a {
+		color: #fff;
+	}
+
+	#w2 .btn {
+		color: #444;
+		background-color: #eee;
+	}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+	.main-info h2 {
+		font-size: 56px;
+		font-size: 5.6rem;
+		line-height: 56px;
+		line-height: 5.6rem;
+	}
+
+	.workshop-left h3 {
+		float: right;
+		clear: right;
+		text-align: right;
+	}
+
+	.workshop-right h3 {
+		float: left;
+		clear: left;
+		text-align: left;
+	}
+
+	.workshop-left {
+		text-align: left;
+	}
+
+	.workshop-right {
+		text-align: right;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
