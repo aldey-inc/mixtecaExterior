@@ -1,10 +1,13 @@
 <div id="main-header">
 	<div class="container">
-		<div class="row">
-			<div class="col-lg-2">
-				<h1 id="main-logo"><a href="index.php">Mixteca <span>Exterior</span></a></h1>
+		<div class="row">		
+			<div id="logo" class="col-lg-1 logo-head">
+				<img src="img/mix.png" alt="Mixteca Exterior" height="80" width="80">				
 			</div>
-			<div class="col-lg-10">
+			<div id="logo-title" class="col-lg-4 logo-head">				
+				<h3>Mixteca Exterior</h3>
+			</div>
+			<div class="col-lg-7">
 				<ul id="main-menu" class="nav nav-pills">
 					<li class="active"><a href="index.php">INICIO</a></li>
 					<li class="dropdown">
