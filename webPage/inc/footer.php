@@ -11,7 +11,12 @@
 			</div>
 			<div class="col-xs-4">
 				<h3>PROXIMOS EVENTOS</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem placeat quisquam, tenetur consectetur nihil incidunt aut voluptatibus veniam labore nostrum repudiandae quo ut veritatis, perspiciatis voluptatum provident quaerat expedita dolor!</p>
+				<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem placeat quisquam, tenetur consectetur nihil incidunt aut voluptatibus veniam labore nostrum repudiandae quo ut veritatis, perspiciatis voluptatum provident quaerat expedita dolor!</p> -->
+				<ul>
+					<li><a href="">Jornada de Salud para el diabético</a></li>
+				<br>
+					<li><a href="">Jornada contra la obesidad</a></li>
+				</ul>
 			</div>
 			<div class="col-xs-4">
 				<h3>NO TE PIERDAS NUESTRAS NOTICIAS </h3>

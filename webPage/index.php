@@ -17,7 +17,7 @@
 						<br>
 						<h2>Cuidamos a quienes esperan tu anhelado regreso</h2>
 						<a class="btn btn-custom" href="#">Conoce Nuestro Trabajo</a>
-						<a class="btn btn-custom" href="#">Contactanos</a>
+						<a class="btn btn-custom" href="#">Contáctanos</a>
 					</div>
 					<div class="col-xs-4"></div>
 				</div>
@@ -30,26 +30,47 @@
 
 						<h3><span class="glyphicon glyphicon-heart"></span> Nuestra forma de apoyar</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius rem quisquam pariatur enim necessitatibus ipsa tempore, magnam cum voluptatum aliquid officia ut id adipisci totam, et, saepe quaerat illum sequi.
-						</p>		
+							La Organización MIXTECA EXTERIOR está creada SIN FINES DE LUCRO, fundada y conformada por personas de la región Mixteca. Que provee cobertura de gastos médicos mediante diferentes programas. ¡Conoce más sobre nosotros!
+							<br>
+							<br>
+							<a class="btn btn-custom" href="whoweare.php">Conoce Nuestro Trabajo</a>						
+							<br>
+						</p>
+						
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 						<h3><span class="glyphicon glyphicon-user"></span> La forma como puedes apoyar</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere soluta tempore voluptates omnis, consequuntur quod eaque nam eius reiciendis exercitationem! Fugiat reiciendis itaque ipsam nulla quod molestiae perferendis, voluptas placeat.
+							Con tan solo regístrate y realizar un pago mínimo de $25 DOLARES puedes asegurar en tu país de origen a los que más quieres. 
+							<br>
+							¡Regístrate hoy mismo!  ¡Es sumamente sencillo! No importa dónde te encuentres.
+							<br>
+							<br>
+							<a class="btn btn-custom" href="registro.php">Registrate</a>
+							<br>
 						</p>
-
 					</div>
+
+					
+
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 						<h3><span class="glyphicon glyphicon-thumbs-up"></span> Nuestros logros</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere soluta tempore voluptates omnis, consequuntur quod eaque nam eius reiciendis exercitationem! Fugiat reiciendis itaque ipsam nulla quod molestiae perferendis, voluptas placeat.
+							Hemos logrado apoyar a una gran cantidad de personas y familias gracias a tu colaboración, sabemos que juntos podemos lograr cosas aún mejores. Conoce nuestros logros
+							<br>
+							<br>
+							<a class="btn btn-custom" href="registro.php">Logros</a>
+							<br>
 						</p>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 						<h3><span class="glyphicon glyphicon-indent-left"></span> Nuestra historia</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere soluta tempore voluptates omnis, consequuntur quod eaque nam eius reiciendis exercitationem! Fugiat reiciendis itaque ipsam nulla quod molestiae perferendis, voluptas placeat.
+							El camion para lograr todo lo que ahora somos no ha sido tarea sencilla, pero por el bienestar de nuestros familiares sabemos que vale la pena.						
+							<br>
+							<br>
+							<a class="btn btn-custom" href="registro.php">Nuestra Historia</a>
+							<br>
 						</p>
 					</div>
 				</div>

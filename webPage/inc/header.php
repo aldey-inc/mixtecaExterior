@@ -11,10 +11,11 @@
 				<ul id="main-menu" class="nav nav-pills">
 					<li class="active"><a href="index.php">INICIO</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="caret"></span>ACERCA DE</a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">ACERCA DE<span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a href="detail.php">HISTORIA</a></li>
-							<li><a href="detail.php">VALORES</a></li>
+							<li><a href="#">HISTORIA</a></li>
+							<li><a href="whoweare.php">¿QUIENES SOMOS?</a></li>
+							<li><a href="principles.php">VALORES</a></li>
 						</ul>
 					</li>
 					<li><a href="contact.php">CONTACTANOS</a></li>
