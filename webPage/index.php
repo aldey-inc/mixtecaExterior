@@ -82,10 +82,14 @@
 					<div class="col-lg-12"> <h3>Hospitales o médicos que pueden brindarte atención</h3> </div>
 
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-						<img src="img/oca.png" alt="OCA" height="80" width="180">
+						<a href="#">
+						<img src="img/cemib.png" alt="Centro Médico Mixteco de Beneficiencia" height="80" width="180">
+						</a>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-						<img src="img/hsj.png" alt="Hospital San Jose" height="80" width="180">
+						<a href="#">
+						<img src="img/hera.png" alt="Hospital de Especialidades Rafael Amador" height="80" width="180">
+						</a>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 						<img src="img/cm.jpg" alt="Ohristus Muguerza" height="80" width="180">

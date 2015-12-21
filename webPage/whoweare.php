@@ -24,7 +24,16 @@
 						
 					</div>	
 					<div class="clearfix"></div>
+					
+					<div class="col-xs-12">
+						<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WmRsG2_cjeU?rel=0" frameborder="0" allowfullscreen></iframe>
+						
+					</div>
 
+					</div>
+									
+					
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						<h3><span class="glyphicon glyphicon-use"></span> Nuestros Funcionarios </h3>												
 						<p>	</p>
@@ -36,7 +45,7 @@
 
 						<h3><span class="glyphicon glyphicon-use"></span>HUGO W. OSORIO - FUNDADOR</h3>
 						<p>
-							<img src="img/hugoosorio.png" alt="">
+							<img src="img/presidente.jpg" height="263" width="214" alt="">
 							<br>
 							<p>
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit excepturi iusto vero maiores rerum, dignissimos. Ipsum natus, enim possimus inventore eligendi. Officia amet enim, assumenda perferendis iusto! Nisi, incidunt perspiciatis!
@@ -49,7 +58,7 @@
 						<h3><span class="glyphicon glyphicon-use"> </span>RODRIGO MARTINEZ - COFUNDADOR </h3>
 						
 						<p>							
-							<img src="img/cofundador.png" alt="">
+							<img src="img/vicepresidente.jpg" height="263" width="214" alt="">
 							<br>
 							<p>
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit excepturi iusto vero maiores rerum, dignissimos. Ipsum natus, enim possimus inventore eligendi. Officia amet enim, assumenda perferendis iusto! Nisi, incidunt perspiciatis!
@@ -62,7 +71,9 @@
 
 						<h3><span class="glyphicon glyphicon-use"></span>MARIA HERRERA - SECRETARIA </h3>
 						<p>
-							<img src="img/mariaherrera.png" alt="">
+							
+
+							<img src="img/secretaria_.jpg" height="263" width="214" alt="">
 							<br>
 							<p>
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit excepturi iusto vero maiores rerum, dignissimos. Ipsum natus, enim possimus inventore eligendi. Officia amet enim, assumenda perferendis iusto! Nisi, incidunt perspiciatis!
