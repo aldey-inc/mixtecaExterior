@@ -18,7 +18,7 @@
 							<li><a href="principles.php">VALORES</a></li>
 						</ul>
 					</li>
-					<li><a href="contact.php">CONTACTANOS</a></li>
+					<li><a href="contact.php">REGISTRATE</a></li>
 					<li><a href="#">DIRECTORIO MÉDICO</a></li>					
 				</ul>
 			</div>

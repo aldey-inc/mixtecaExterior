@@ -17,7 +17,7 @@
 						<br>
 						<h2>Cuidamos a quienes esperan tu anhelado regreso</h2>
 						<a class="btn btn-custom" href="#">Conoce Nuestro Trabajo</a>
-						<a class="btn btn-custom" href="#">Contáctanos</a>
+						<a class="btn btn-custom" href="contact.php">Contáctanos</a>
 					</div>
 					<div class="col-xs-4"></div>
 				</div>
