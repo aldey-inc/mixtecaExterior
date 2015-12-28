@@ -19,7 +19,7 @@
 						</ul>
 					</li>
 					<li><a href="contact.php">REGISTRATE</a></li>
-					<li><a href="#">DIRECTORIO MÉDICO</a></li>					
+					<li><a href="directory.php">DIRECTORIO MÉDICO</a></li>					
 				</ul>
 			</div>
 		</div>

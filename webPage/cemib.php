@@ -1,13 +1,38 @@
-El que suscribe Dr. Ernesto Orduña Ruiz, Director y Responsable Sanitario de la Clínica Hospital
-de Servicios Privados Centro Médico Mixteco de Beneficencia (CEMIB) ubicada en la Calle de Morelos
-Núm. 52 Col. Centro de la Ciudad de Huajuapan de León Oax., tengo el honor de poner a su disposición
-los servicios médicos que se ofrecen en esta unidad hospitalaria: ginecología y obstetricia, clínica
-de colposcopía, cirugía general y laparoscopia, anatomía patológica, anestesiología, traumatología y
-ortopedia, pediatría, medicina interna, bariatria, medicina general, piscología adulto e infantil,
-odontología, farmacia las 24 horas del día, estacionamiento. Poniendo a su disposición 10 habitaciones
-individuales para adulto, 2 habitaciones pediátricas, 2 salas de quirófano, 1 sala de expulsión, área de
-recuperación, 3 incubadoras, cuna radiante para fototerapia etc.,  además contar con personal altamente
-capacitado para la atención las 24 horas del día los 365 días del año.
+Esta unidad hospitalaria se encuetra a cargo del
+
+Dr. Ernesto Orduña Ruiz
+Director y Responsable Sanitario
+
+Ubicado en la Calle de Morelos
+Núm. 52 Col. Centro de la Ciudad de Huajuapan de León Oax.,
+
+Servicios médicos que se ofrecen en esta unidad hospitalaria son
+
+Ginecología y obstetricia
+Clínica de colposcopía
+Cirugía general y laparoscopia
+Anatomía patológica
+Anestesiología
+Traumatología
+Pediatría
+Medicina interna
+Bariatria
+Medicina general
+Piscología adulto e infantil
+Odontología
+Farmacia las 24 horas del día
+Estacionamiento
+
+Las instalaciones con las que cuenta son las siguientes
+
+
+10 habitaciones individuales para adulto
+2 habitaciones pediátricas
+2 salas de quirófano
+1 sala de expulsión
+área de recuperación
+3 incubadoras
+Cuna radiante para fototerapia
 
 
 Apegados a  las normas oficiales mexicanas y a nuestro manual de organización que se rige bajo los

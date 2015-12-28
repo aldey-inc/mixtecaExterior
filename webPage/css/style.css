@@ -175,3 +175,7 @@ section#title-bar h1{
 form{
 	padding-top: 20px;
 }
+
+section#hospitalList{
+	margin-top: 20px;
+}

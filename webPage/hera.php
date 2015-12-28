@@ -1,4 +1,13 @@
-Servicio que se ofertan 
+Esta unidad hospitalaria se encuentra a cargo del 
+
+Dr. Luis Demetrio Hernandez Ruiz
+Directorio Médico
+Teléfono de Oficina 953 5320095 953 5322771
+Celular 953 1167179
+
+
+
+Servicio médicos que ofrece esta unidad hospitalaria son
 
 Consulta Externa
 Hospitalización
@@ -11,13 +20,23 @@ Ultrasonido y Rayos Equis
 Laboratorio
 Capilla
 
-Dr. Luis Demetrio Hernandez Ruiz
-Directorio Médico
-Teléfono de Oficina 953 5320095 953 5322771
-Celular 953 1167179
 
-Patronato del Hospital Civil Regional Monseñor Doctor
-"Rafael Amador y Hernandez"
+Especialidades
+
+Gastroenterología Quirúrgica
+Nefrología
+Medicina General
+Urologia
+Oncologia
+Odontologia
+Odontología Pediátrica
+Geriatria
+Terapeuta
+Psicología
+Psicología infantil
+Psquiatria
+Ginecología
+Medicina Interna
 
 
 Misión
@@ -40,21 +59,5 @@ tegnológica y modernidad médica que permita ser sede de un campo clínico para
 los profesionales en formación de salud e investigación para ofrecer servicios
 con el más alto nivel en las áreas marginadas de nuestra región.
 
-Especialidades
-
-Gastroenterología Quirúrgica
-Nefrología
-Medicina General
-Urologia
-Oncologia
-Odontologia
-Odontología Pediátrica
-Geriatria
-Terapeuta
-Psicología
-Psicología infantil
-Psquiatria
-Ginecología
-Medicina Interna
 
 
