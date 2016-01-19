@@ -13,7 +13,7 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">ACERCA DE<span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a href="#">HISTORIA</a></li>
+							<li><a href="history.php">HISTORIA</a></li>
 							<li><a href="whoweare.php">¿QUIENES SOMOS?</a></li>
 							<li><a href="principles.php">VALORES</a></li>
 						</ul>

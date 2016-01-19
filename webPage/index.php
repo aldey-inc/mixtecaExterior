@@ -41,12 +41,12 @@
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 						<h3><span class="glyphicon glyphicon-user"></span> La forma como puedes apoyar</h3>
 						<p>
-							Con tan solo regístrate y realizar un pago mínimo de $25 DOLARES puedes asegurar en tu país de origen a los que más quieres. 
+							Con tan solo regístrate y realizar una aportación mínima mensual de $25 DOLARES puedes asegurar en tu país de origen a los que más quieres. 
 							<br>
 							¡Regístrate hoy mismo!  ¡Es sumamente sencillo! No importa dónde te encuentres.
 							<br>
 							<br>
-							<a class="btn btn-custom" href="registro.php">Registrate</a>
+							<a class="btn btn-custom" href="contact.php">Registrate</a>
 							<br>
 						</p>
 					</div>
@@ -59,17 +59,17 @@
 							Hemos logrado apoyar a una gran cantidad de personas y familias gracias a tu colaboración, sabemos que juntos podemos lograr cosas aún mejores. Conoce nuestros logros
 							<br>
 							<br>
-							<a class="btn btn-custom" href="registro.php">Logros</a>
+							<a class="btn btn-custom" href="contact.php">Logros</a>
 							<br>
 						</p>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 						<h3><span class="glyphicon glyphicon-indent-left"></span> Nuestra historia</h3>
 						<p>
-							El camion para lograr todo lo que ahora somos no ha sido tarea sencilla, pero por el bienestar de nuestros familiares sabemos que vale la pena.						
+							El camino para lograr todo lo que ahora somos no ha sido tarea sencilla, pero por el bienestar de nuestros familiares sabemos que vale la pena.						
 							<br>
 							<br>
-							<a class="btn btn-custom" href="registro.php">Nuestra Historia</a>
+							<a class="btn btn-custom" href="contact.php">Nuestra Historia</a>
 							<br>
 						</p>
 					</div>
@@ -82,20 +82,24 @@
 					<div class="col-lg-12"> <h3>Hospitales o médicos que pueden brindarte atención</h3> </div>
 
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-						<a href="#">
+						<a href="directory.php">
 						<img src="img/cemib.png" alt="Centro Médico Mixteco de Beneficiencia" height="80" width="180">
 						</a>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-						<a href="#">
+						<a href="directory.php">
 						<img src="img/hera.png" alt="Hospital de Especialidades Rafael Amador" height="80" width="180">
 						</a>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-						<img src="img/cm.jpg" alt="Ohristus Muguerza" height="80" width="180">
+						<a href="directory.php">
+						<img src="img/cemib.png" alt="Centro Médico Mixteco de Beneficiencia" height="80" width="180">
+						</a>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-						<img src="img/oca.png" alt="OCA" height="80" width="180">
+						<a href="directory.php">
+						<img src="img/hera.png" alt="Hospital de Especialidades Rafael Amador" height="80" width="180">
+						</a>
 					</div>
 				</div>
 			</div>

@@ -33,7 +33,7 @@
 					     			</a>
 					      		</h4>
 					    	</div>
-					    	<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+					    	<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 					      		<div class="panel-body">
 					      			<p>
 					        		Esta unidad hospitalaria se encuentra a cargo del 
@@ -65,8 +65,9 @@
 									</p>
 
 									<p>
-
+										<h4>
 										Especialidades
+										</h4>
 									</p>
 
 									<p>
@@ -90,8 +91,9 @@
 									<p>
 
 
-
+										<h4>
 										Misión
+										</h4>
 									</p>
 									<p>
 
@@ -103,8 +105,9 @@
 										de compromiso con la comunidad, responsabilidad y honestidad.
 									</p>
 									<p>
-
+										<h4>
 										Visión
+										</h4>
 									</p>
 									<p>
 
@@ -179,7 +182,9 @@
 									Cuna radiante para fototerapia
 									</p>
 									<p>
+									<h4>
 									Misión
+									</h4>
 									</p>
 									<p>
 									Brindar permanentemente atención medica de excelencia a través de los siguientes principios:
@@ -192,7 +197,9 @@
 										Brindar al paciente un trato honesto y cálido.
 									</p>
 									<p>
+									<h4>
 									Visión
+									</h4>
 									</p>
 									<p>
 									Conformar el sistema de salud privado más completo en la ciudad de Huajuapan de león, que se distinga
@@ -200,7 +207,9 @@
 									personal a sus empleados.
 									</p>
 									<p>
+									<h4>
 									Objetivo
+									</h4>
 									</p>
 									<p>
 									Ser una clínica que brinda atención medica de calidad a través de infraestructura y equipo humano
@@ -208,14 +217,18 @@
 									que responda a las necesidades y demandas de la sociedad.
 									</p>
 									<p>
+									<h4>
 									Filosofía
+									</h4>
 									</p>
 									<p>
 									Contar con un equipo médico de especialistas con una sólida formación profesional y alto espíritu de
 									servicio para brinda asistencia médica a la altura de los mejores hospitales.
 									</p>
 									<p>
+									<h4>
 									Valores
+									</h4>
 									</p>
 									<p>
 									Ética profesional

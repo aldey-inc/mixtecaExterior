@@ -67,6 +67,7 @@
     /* For IE 8*/
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#aa000000, endColorstr=#aa000000)";
 }
+
 #main-container h3{
 	font-weight: 400;
 	background-color: #87C540;
@@ -129,6 +130,12 @@
 	margin: auto;	
 	color: #243A7C;
 }
+#main-news h4{
+	font-weight: 200;
+	background-color: #87C540;
+	color: #243A7C;
+	padding: 0;
+}
 #main-news p{
 	background-color: #eee;
 	padding-right: 5%;
@@ -158,18 +165,18 @@
 	background-image: url('../img/bg_ws_02.png');
 }
 
-	#w2 p {
-		color: #FFA5A5;
-	}
+#w2 p {
+	color: #FFA5A5;
+}
 
-	#w2 p > a {
-		color: #fff;
-	}
+#w2 p > a {
+	color: #fff;
+}
 
-	#w2 .btn {
-		color: #444;
-		background-color: #eee;
-	}
+#w2 .btn {
+	color: #444;
+	background-color: #eee;
+}
 
 
 

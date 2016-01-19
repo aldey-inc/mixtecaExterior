@@ -97,11 +97,11 @@
 					</p>
 					<p>
 						(312) 772-8407 <br>
-						email: osoriohgto@hotmail.com
+						email: osoriorod@hotmail.com
 					</p>
 
 					<p>
-						O realiza tu donativo mediante PayPal con el siguiente boton
+						O realiza tu donativo mediante PayPal con el siguiente botón
 					</p>
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3">
