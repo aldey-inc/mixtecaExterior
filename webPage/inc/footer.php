@@ -1,24 +1,7 @@
 <footer>
 	<div class="container">
-		<div class="row">
-			<div class="col-xs-4">@mixtecaexterior</div>
-			<div class="col-xs-4">@mixtecaexterior</div>
-			<div class="col-xs-4">@mixtecaexterior</div>
-			<div class="clearfix"></div>
-			<div class="col-xs-4">
-				<h3>AGRADECIMIENTOS</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, eum animi ipsum voluptatem natus fugit tempora veniam recusandae blanditiis, consectetur a quod ut eius architecto, non at ducimus, ratione amet.</p>
-			</div>
-			<div class="col-xs-4">
-				<h3>PROXIMOS EVENTOS</h3>
-				<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem placeat quisquam, tenetur consectetur nihil incidunt aut voluptatibus veniam labore nostrum repudiandae quo ut veritatis, perspiciatis voluptatum provident quaerat expedita dolor!</p> -->
-				<ul>
-					<li><a href="">Jornada de Salud para el diabético</a></li>
-				<br>
-					<li><a href="">Jornada contra la obesidad</a></li>
-				</ul>
-			</div>
-			<div class="col-xs-4">
+		<div class="row">			
+			<div class="col-xs-5">
 				<h3>NO TE PIERDAS NUESTRAS NOTICIAS </h3>
 				<form id="subscribe-form" action="">
 					<div class="row">
@@ -32,6 +15,20 @@
 					</div>
 				</form>						
 			</div>
+			<div class="col-xs-4">
+				<h3>AGRADECIMIENTOS</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, eum animi ipsum voluptatem natus fugit tempora veniam recusandae blanditiis, consectetur a quod ut eius architecto, non at ducimus, ratione amet.</p>
+			</div>
+			<div class="col-xs-3">
+				<h3>PROXIMOS EVENTOS</h3>
+				<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem placeat quisquam, tenetur consectetur nihil incidunt aut voluptatibus veniam labore nostrum repudiandae quo ut veritatis, perspiciatis voluptatum provident quaerat expedita dolor!</p> -->
+				<ul>
+					<li><a href="">Jornada de Salud para el diabético</a></li>
+				<br>
+					<li><a href="">Jornada contra la obesidad</a></li>
+				</ul>
+			</div>
+			
 		</div>
 	</div>
 </footer>

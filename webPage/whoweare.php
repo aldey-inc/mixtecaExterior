@@ -48,7 +48,14 @@
 							<img src="img/presidente.jpg" height="263" width="214" alt="">
 							<br>
 							<p style="text-align: justify;">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit excepturi iusto vero maiores rerum, dignissimos. Ipsum natus, enim possimus inventore eligendi. Officia amet enim, assumenda perferendis iusto! Nisi, incidunt perspiciatis!
+								Yo Hugo Willehado Osorio,  Fundador y Presidente de la Organizacion Mixteca  Exterior.<br>
+								Con mucho gusto quiero compartir con ustedes la idea que por varios años me acompaño durante mi estancia en la Ciudad de México y por mi recorrido por la mayoría de  los Estados de la Republica:   Como ayudar activamente a las personas de Huajuapan y la mixteca, brindándoles algún tipo de beneficio por el cual nuestra gente se sintiera agradecida y  NO  tuviera que pagar o pagara lo menos posible.  
+								Ahora, me es grato poderles informar que junto con un grupo de compañeros de la Mixteca, que me apoyaron en esta idea, LOGRAMOS integrar  la Organización denominada MIXTECA EXTERIOR, misma que presentamos a ustedes y que por supuesto esta fundada PARA AYUDAR A LA COMUNIDAD EN GENERAL sin ningún interés comercial, sin fines de lucro y dependiente de la aportación de sus miembros. 
+								Junto con nuestra página,  encontraran la información y  los detalles del   1er. Programa de cobertura nacional que desarrollaremos inicialmente en Huajuapan y la Mixteca, que es el de proveer servicios médicos gratuitos a todos los familiares dependientes directos de los miembros de la Organización. 
+								Espero contar con el apoyo de toda la comunidad  para difundir esta información,  contactarnos  y  así conocer de las necesidades de la region para poder determinar  la forma de  cómo podremos ayudar. 
+								A sus ordenes para cualquier información adicional. <br>
+								osoriohgto@hotmail.com <br>
+								mixteca.oaxaquena1@gmail.com
 							</p>
 						</p>
 						

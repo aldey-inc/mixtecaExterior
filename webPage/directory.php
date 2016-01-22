@@ -35,33 +35,34 @@
 					    	</div>
 					    	<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 					      		<div class="panel-body">
-					      			<p>
+					      			<p style="text-align: justify;">
 					        		Esta unidad hospitalaria se encuentra a cargo del 
 									</p>
-									<p>
-										Dr. Luis Demetrio Hernandez Ruiz
-										Directorio Médico
-										Teléfono de Oficina 953 5320095 953 5322771
-										Celular 953 1167179
+									<p style="text-align: justify;">
+										Dr. Luis Demetrio Hernandez Ruiz <br>
+										Director Médico <br>
+										Teléfono de Oficina <br>953 5320095 <br> 953 5322771 <br>
+										Celular  <br>
+										953 1167179
 									</p>
 
 
-									<p>
-										Servicio médicos que ofrece esta unidad hospitalaria son
+									<p style="text-align: justify;">
+										Los servicio médicos que ofrece esta unidad hospitalaria son los siguientes:
 									</p>
 
-									<p>
+									<p style="text-align: justify;">
 
-										Consulta Externa
-										Hospitalización
-										Endoscopia
-										Laparoscopia
-										Hemodialisis
-										Banco de Sangre
-										Unidad de Oncología
-										Ultrasonido y Rayos Equis
-										Laboratorio
-										Capilla
+										Consulta Externa <br>
+										Hospitalización <br>
+										Endoscopia <br>
+										Laparoscopia <br>
+										Hemodialisis <br>
+										Banco de Sangre <br>
+										Unidad de Oncología <br>
+										Ultrasonido y Rayos Equis <br>
+										Laboratorio <br>
+										Capilla <br>
 									</p>
 
 									<p>
@@ -72,20 +73,20 @@
 
 									<p>
 
-										Gastroenterología Quirúrgica
-										Nefrología
-										Medicina General
-										Urologia
-										Oncologia
-										Odontologia
-										Odontología Pediátrica
-										Geriatria
-										Terapeuta
-										Psicología
-										Psicología infantil
-										Psquiatria
-										Ginecología
-										Medicina Interna
+										Gastroenterología Quirúrgica <br>
+										Nefrología <br>
+										Medicina General <br>
+										Urologia <br> 
+										Oncologia <br>
+										Odontologia <br>
+										Odontología Pediátrica <br>
+										Geriatria <br>
+										Terapeuta <br>
+										Psicología <br>
+										Psicología infantil <br>
+										Psquiatria <br>
+										Ginecología <br>
+										Medicina Interna <br>
 									</p>
 
 									<p>
@@ -95,7 +96,7 @@
 										Misión
 										</h4>
 									</p>
-									<p>
+									<p style="text-align: justify;">
 
 										Somos una institución católica sin fines de lucro que brinda servicios de
 										salud general e integral, no importado clases sociales ni credo religioso,
@@ -109,7 +110,7 @@
 										Visión
 										</h4>
 									</p>
-									<p>
+									<p style="text-align: justify;">
 
 										Ser una institución católica lider en la representación de los servicios de
 										salud en la región mixteca, abierto a la población en general y comprometida
@@ -120,14 +121,11 @@
 										los profesionales en formación de salud e investigación para ofrecer servicios
 										con el más alto nivel en las áreas marginadas de nuestra región.
 									</p>
-
-
-
-
-
-					      		</div>
+						      	</div>
 					    	</div>
-					  	</div>
+					    </div>
+					  	
+					  	<!--
 					  		<div class="panel panel-default">
 				    			<div class="panel-heading" role="tab" id="headingTwo">
 					    			<img width="200px" src="img/cemib.png" alt="">
@@ -254,13 +252,38 @@
 
 				      			</div>
 				    		</div>
-				  		</div>
-						</div>
+				    		</div>
+				    		-->
+				  		
+						
 					</div>
 				</div>
 			</div>
 	</section>
 
+	<footer>
+		<div class="container">
+			<div class="row">	
+				<div class="col-xs-6">
+					<h3>AGREGA EL HOSPITAL O CLÍNICA DE TU PREFERENCIA</h3>
+					<p>El hospital al que acudes aun no está en nuestro directorio, con todo gusto hacemos todo lo posible por que así sea. Solo dejanos tu correo y nos pondremos en contacto para juntos atender tus necesidades y la de nuestros compatriotas.</p>
+				</div>	
+				<div class="col-xs-6">				
+					<form id="subscribe-form" action="">
+						<div class="row">
+							<div class="col-lg-8 col-xs-12">
+								<label class="sr-only" for="email">Tu correo electrónico aquí</label>
+								<input type="text" id="email" name="email" class="form-control input-lg" placeholder="Tu correo electrónico">
+							</div>
+							<div class="col-lg-4 col-xs-6">
+								<button class="btn btn-custom btn-lg">Enviar</button>
+							</div>
+						</div>
+					</form>						
+				</div>								
+			</div>
+		</div>
+	</footer>
 	<?php include 'inc/footer.php'; ?>
 	<?php include 'inc/footer_common.php'; ?>
 </body>
