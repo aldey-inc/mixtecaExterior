@@ -40,7 +40,62 @@
 							<label for="inputLastname">Apellidos</label>
 							<input type="text" class="form-control" id="inputLastname" placeholder="Introduce tus apellidos o los del beneficiario">
 						</div>
-
+						<div class="form-group">
+							<label for="">Ciudad donde usted radica</label>							
+							<select class="form-control">
+							  		<option>Alabama</option>
+									<option>Alaska</option>
+									<option>Arizona</option>
+									<option>Arkansas</option>
+									<option>California</option>
+									<option>Carolina del Norte</option>
+									<option>Carolina del Sur</option>
+									<option>Colorado</option>
+									<option>Connecticut</option>
+									<option>Dakota del Norte</option>
+									<option>Dakota del Sur</option>
+									<option>Delaware</option>
+									<option>Florida</option>
+									<option>Georgia</option>
+									<option>Hawái</option>
+									<option>Idaho</option>
+									<option>Illinois</option>
+									<option>Indiana</option>
+									<option>Iowa</option>
+									<option>Kansas</option>
+									<option>Kentucky</option>
+									<option>Luisiana</option>
+									<option>Maine</option>
+									<option>Maryland</option>
+									<option>Massachusetts</option>
+									<option>Míchigan</option>
+									<option>Minnesota</option>
+									<option>Misisipi</option>
+									<option>Misuri</option>
+									<option>Montana</option>
+									<option>Nebraska</option>
+									<option>Nevada</option>
+									<option>Nueva Jersey</option>
+									<option>Nueva York</option>
+									<option>Nuevo Hampshire</option>
+									<option>Nuevo México</option>
+									<option>Ohio</option>
+									<option>Oklahoma</option>
+									<option>Oregón</option>
+									<option>Pensilvania</option>
+									<option>Rhode Island</option>
+									<option>Tennessee</option>
+									<option>Texas</option>
+									<option>Utah</option>
+									<option>Vermont</option>
+									<option>Virginia</option>
+									<option>Virginia Occidental</option>
+									<option>Washington</option>
+									<option>Wisconsin</option>
+									<option>Wyoming</option>					 
+									<option>Otro</option>					 
+							</select>
+						</div>
 						<div class="form-group">
 							<label for="inputContactNumber">Número de contacto</label>
 							<input type="text" class="form-control" id="inputContactNumber" placeholder="Escribe tu número telefónico para comunicarnos contigo">
