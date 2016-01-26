@@ -1,0 +1,78 @@
+"Nuestra forma de apoyar"
+provee cobertura médica mediante diferentes
+
+
+"La manera en que puedes apoyar"
+aportación mensual de $25 dolares
+
+
+
+whoweare.php
+
+Tlaxiaco así como al resto de los municipios que lo conforman.
+así como al resto de municipios que conforman el estado.
+
+
+
+
+Hugo Willehado
+
+Yo, Hugo 
+
+Mixteca Exterior,  (quitar el punto y cambiarlo por coma)
+
+
+Agregar lo de la secretaria que me va  a mandar Rodrigo
+
+
+
+directory.php
+
+Agrega el médico, hospital o clínica de preferencia
+
+
+Agregar el médico en la parte del parrafo.
+
+
+
+Cambiar lo de agradecimientos por las redes sociales
+
+
+
+
+
+contact.php
+
+
+Nombre de titular
+
+
+
+Poner una lista para poder agregar y asegurar a 3 personas
+
+
+Aparte otro para que notifiques algun cambios en tus beneficiario o domicilio
+agregar número teléfonio y quitar tipo de apoyo
+
+
+
+Agregar otro formualrio para cambiar dirección o 
+
+
+Titular= el que paga
+Asegurado= El que recibirá el apoyo
+
+Direccion, seria calle , numero, colonia.
+
+Ciudad donde radica
+
+Direccion, puedan meter , calle, numero y colonia
+
+
+Numero de contacto por Número teléfonico
+
+Poner cuatro filas para los asegurados
+
+
+
+Si usted solicita el servicio por alguien más, favor de ponerse en contacto con nostrosos

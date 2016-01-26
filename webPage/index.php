@@ -30,7 +30,7 @@
 
 						<h3><span class="glyphicon glyphicon-heart"></span> Nuestra forma de apoyar</h3>
 						<p>
-							La Organización MIXTECA EXTERIOR está creada SIN FINES DE LUCRO, fundada y conformada por personas de la región Mixteca. Que provee cobertura de gastos médicos mediante diferentes programas. ¡Conoce más sobre nosotros!
+							La Organización MIXTECA EXTERIOR está creada SIN FINES DE LUCRO, fundada y conformada por personas de la región Mixteca. Que provee cobertura médica mediante diferentes programas. ¡Conoce más sobre nosotros!
 							<br>
 							<br>
 							<a class="btn btn-custom" href="whoweare.php">Conoce Nuestro Trabajo</a>						
