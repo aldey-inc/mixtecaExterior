@@ -16,8 +16,10 @@
 				</form>						
 			</div>
 			<div class="col-xs-4">
-				<h3>AGRADECIMIENTOS</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, eum animi ipsum voluptatem natus fugit tempora veniam recusandae blanditiis, consectetur a quod ut eius architecto, non at ducimus, ratione amet.</p>
+				<h3>SIGUENOS EN NUESTRAS REDES SOCIALES</h3>
+				<a href="#"><img src="img/facebook.png"></a>
+				<a href="#"><img src="img/twitter.png"></a>
+				<a href="#"><img src="img/google+.png"></a>
 			</div>
 			<div class="col-xs-3">
 				<h3>PROXIMOS EVENTOS</h3>

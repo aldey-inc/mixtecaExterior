@@ -265,8 +265,8 @@
 		<div class="container">
 			<div class="row">	
 				<div class="col-xs-6">
-					<h3>AGREGA EL HOSPITAL O CLÍNICA DE TU PREFERENCIA</h3>
-					<p>El hospital al que acudes aun no está en nuestro directorio, con todo gusto hacemos todo lo posible por que así sea. Solo dejanos tu correo y nos pondremos en contacto para juntos atender tus necesidades y la de nuestros compatriotas.</p>
+					<h3>AGREGA AL MÉDICO, HOSPITAL O CLÍNICA DE TU PREFERENCIA</h3>
+					<p>El médico, hospital o clínica a la que acudes aun no está en nuestro directorio, con todo gusto hacemos todo lo posible por que así sea. Solo dejanos tu correo y nos pondremos en contacto para juntos atender tus necesidades y la de nuestros compatriotas.</p>
 				</div>	
 				<div class="col-xs-6">				
 					<form id="subscribe-form" action="">

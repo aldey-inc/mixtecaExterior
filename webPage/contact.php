@@ -24,24 +24,43 @@
 				<div class="col-md-7 col-md-offset-1">
 				
 					<form>
-						<div class="form-group">
-							<label for="">Marque el que pertenezca</label>							
-							<select class="form-control">
-							  <option>Nombre suyo</option>
-							  <option>Nombre de persona asegurada</option>							 
-							</select>
-						</div>
+						
 						<div class="form-group">
 							<label for="inputName">Nombre</label>
-							<input type="text" class="form-control" id="inputName" placeholder="Introduce tu nombre o el del beneficiario">
+							<input type="text" class="form-control" id="inputName" placeholder="Introduce tu nombre">
 						</div>
 
 						<div class="form-group">
 							<label for="inputLastname">Apellidos</label>
-							<input type="text" class="form-control" id="inputLastname" placeholder="Introduce tus apellidos o los del beneficiario">
+							<input type="text" class="form-control" id="inputLastname" placeholder="Introduce tus apellidos">
 						</div>
 						<div class="form-group">
-							<label for="">Ciudad donde usted radica</label>							
+					    	<label>Forma de identificación</label>					    	
+					  	</div>
+					  	<div class="checkbox">
+					    	<label>
+					      	<input type="radio" name="identification"> Matricula consular
+					    	</label>
+					    	<label>
+					      	<input type="radio" name="identification"> Pasaporte
+					    	</label>
+					    	<label>
+					      	<input type="radio" name="identification"> Credencial del elector
+					    	</label>
+					    	<label>
+					      	<input type="radio" name="identification"> Licencia de conducir
+					    	</label>
+					  	</div>
+					  	<div class="form-group">
+					    	<label for="inputID">Número de ID</label>
+					    	<input type="text" class="form-control" id="inputID" placeholder="Número de identificación">
+					  	</div>
+						<div class="form-group">
+							<label for="inputContactNumber">Número telefónico</label>
+							<input type="text" class="form-control" id="inputContactNumber" placeholder="Escribe tu número telefónico para comunicarnos contigo">							
+						</div>
+						<div class="form-group">
+							<label for="">Ciudad donde radica</label>							
 							<select class="form-control">
 							  		<option>Alabama</option>
 									<option>Alaska</option>
@@ -97,50 +116,97 @@
 							</select>
 						</div>
 						<div class="form-group">
-							<label for="inputContactNumber">Número de contacto</label>
-							<input type="text" class="form-control" id="inputContactNumber" placeholder="Escribe tu número telefónico para comunicarnos contigo">
-						</div>			
+							<label for="inputLastname">Dirección</label>							
+							<textarea class="form-control" rows="3" placeholder="Escribe aquí tu dirección por favor: Calle, Número, Colonia, Ciudad"></textarea>					    	
+						</div>
+									
 			
 						<div class="form-group">
 					    	<label for="inputEmail">Correo electrónico</label>
 					    	<input type="email" class="form-control" id="inputEmail" placeholder="Escribe tu correo electrónico">
 					  	</div>
-					  	<div class="form-group">
-					    	<label>Forma de identificación</label>					    	
-					  	</div>
-					  	<div class="checkbox">
-					    	<label>
-					      	<input type="checkbox"> Matricula consular
-					    	</label>
-					    	<label>
-					      	<input type="checkbox"> Pasaporte
-					    	</label>
-					    	<label>
-					      	<input type="checkbox"> Credencial del elector
-					    	</label>
-					    	<label>
-					      	<input type="checkbox"> Licencia de conducir
-					    	</label>
-					  	</div>
-					  	<div class="form-group">
-					    	<label for="inputID">Número de ID</label>
-					    	<input type="text" class="form-control" id="inputID" placeholder="Número de identificación">
-					  	</div>
-					  	<div class="form-group">
-					    	<label for="inputAdress">Direccion del asegurado</label>
-					    	<textarea class="form-control" rows="3" placeholder="Escribe la dirección del asegurado"></textarea>					    	
-					  	</div>
-						
-						<div class="form-group">
-					    	<label for="inputRelation">Relación con usted</label>
-					    	<textarea class="form-control" rows="3" placeholder="Escribe el tipo de relación que tiene con el asegurado"></textarea>					    	
-					  	</div>
 
-						<div class="form-group">
-					    	<label for="inputRelation">Si usted solicita servicios por alguien más favor de detallar su identidad</label>
-					    	<textarea class="form-control" rows="3" placeholder="Escribe el detale de tu identidad"></textarea>					    	
-					  	</div>				
-					  	<button type="submit" class="btn btn-default">Registrar</button>
+					  	<label >Datos de personas a asegurar </label>
+					  	<div class="well">
+					  		<div class="well">
+						  		<div class="form-group">
+							    	<label for="inputAdress">Nombre del asegurado 1</label>
+							    	<input type="text" class="form-control" id="inputLastname" placeholder="Introduce el nombre completo con apellidos de la persona a asegurar">
+							  	</div>
+							  	<div class="form-group">
+									<label for="">Relación o parentezco con usted</label>							
+									<select class="form-control">
+									  		<option>Esposo (a)</option>
+											<option>Hijo (a)</option>
+											<option>Padre</option>
+											<option>Madre</option>													 
+									</select>
+								</div>
+								<div class="form-group">
+									<label for="inputLastname">Dirección</label>							
+									<textarea class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad"></textarea>					    	
+								</div>	
+							</div>	
+							<div class="well">
+						  		<div class="form-group">
+							    	<label for="inputAdress">Nombre del asegurado 2</label>
+							    	<input type="text" class="form-control" id="inputLastname" placeholder="Introduce el nombre completo con apellidos de la persona a asegurar">
+							  	</div>
+							  	<div class="form-group">
+									<label for="">Relación o parentezco con usted</label>							
+									<select class="form-control">
+									  		<option>Esposo (a)</option>
+											<option>Hijo (a)</option>
+											<option>Padre</option>
+											<option>Madre</option>													 
+									</select>
+								</div>
+								<div class="form-group">
+									<label for="inputLastname">Dirección</label>							
+									<textarea class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad"></textarea>					    	
+								</div>	
+							</div>	
+							<div class="well">
+						  		<div class="form-group">
+							    	<label for="inputAdress">Nombre del asegurado 3</label>
+							    	<input type="text" class="form-control" id="inputLastname" placeholder="Introduce el nombre completo con apellidos de la persona a asegurar">
+							  	</div>
+							  	<div class="form-group">
+									<label for="">Relación o parentezco con usted</label>							
+									<select class="form-control">
+									  		<option>Esposo (a)</option>
+											<option>Hijo (a)</option>
+											<option>Padre</option>
+											<option>Madre</option>													 
+									</select>
+								</div>
+								<div class="form-group">
+									<label for="inputLastname">Dirección</label>							
+									<textarea class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad"></textarea>					    	
+								</div>	
+							</div>	
+							<div class="well">
+						  		<div class="form-group">
+							    	<label for="inputAdress">Nombre del asegurado 4</label>
+							    	<input type="text" class="form-control" id="inputLastname" placeholder="Introduce el nombre completo con apellidos de la persona a asegurar">
+							  	</div>
+							  	<div class="form-group">
+									<label for="">Relación o parentezco con usted</label>							
+									<select class="form-control">
+									  		<option>Esposo (a)</option>
+											<option>Hijo (a)</option>
+											<option>Padre</option>
+											<option>Madre</option>													 
+									</select>
+								</div>
+								<div class="form-group">
+									<label for="inputLastname">Dirección</label>							
+									<textarea class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad"></textarea>					    	
+								</div>	
+							</div>	
+						</div>
+						<button type="submit" class="btn btn-default">Registrar</button>
+						<br>Nota: Si usted solicita el servicio por alguien más, favor de ponerse en contacto con nosotros mediante nuestro correo o número telefónico.
 					</form>
 				</div>
 

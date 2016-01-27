@@ -18,7 +18,7 @@
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						<h3><span class="glyphicon glyphicon-use"></span> ¿QUIENES SOMOS? </h3>
 						<p style="text-align: justify;">
-							La Organización Mixteca Exterior está creada SIN FINES DE LUCRO, fundada y conformada por personas de la región Mixteca.  Registrada ante la Secretaria de relaciones Exteriores. Traemos a Huajuapan y la Mixteca el programa de COBERTURA MÉDICA, que beneficiará a todas las personas que tengan familiares que residan en Estados Unidos, Canadá o en cualquier parte del Mundo. Nuestra organización en coordinación con reconocidos médicos de la región mixteca. Haremos lo necesario para proveer cobertura médica a las comunidades  como Huajuapan de León, Tezoatlán, Tlaxiaco así como a los restos de municipios que lo conforman. 
+							La Organización Mixteca Exterior está creada SIN FINES DE LUCRO, fundada y conformada por personas de la región Mixteca.  Registrada ante la Secretaria de relaciones Exteriores. Traemos a Huajuapan y la Mixteca el programa de COBERTURA MÉDICA, que beneficiará a todas las personas que tengan familiares que residan en Estados Unidos, Canadá o en cualquier parte del Mundo. Nuestra organización en coordinación con reconocidos médicos de la región mixteca. Haremos lo necesario para proveer cobertura médica a las comunidades  como Huajuapan de León, Tezoatlán, Tlaxiaco así como al resto de municipios que conforman el estado. 
 							
 							<div class="embed-responsive embed-responsive-16by9">							
 								<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hGPZwZKA-l8" frameborder="0" allowfullscreen></iframe>
@@ -48,8 +48,8 @@
 							<img src="img/presidente.jpg" height="263" width="214" alt="">
 							<br>
 							<p style="text-align: justify;">
-								Yo Hugo Willehado Osorio,  Fundador y Presidente de la Organizacion Mixteca  Exterior.<br>
-								Con mucho gusto quiero compartir con ustedes la idea que por varios años me acompaño durante mi estancia en la Ciudad de México y por mi recorrido por la mayoría de  los Estados de la Republica:   Como ayudar activamente a las personas de Huajuapan y la mixteca, brindándoles algún tipo de beneficio por el cual nuestra gente se sintiera agradecida y  NO  tuviera que pagar o pagara lo menos posible.  
+								Yo, Hugo Willehado Osorio,  Fundador y Presidente de la Organizacion Mixteca  Exterior,
+								con mucho gusto quiero compartir con ustedes la idea que por varios años me acompaño durante mi estancia en la Ciudad de México y por mi recorrido por la mayoría de  los Estados de la Republica:   Como ayudar activamente a las personas de Huajuapan y la mixteca, brindándoles algún tipo de beneficio por el cual nuestra gente se sintiera agradecida y  NO  tuviera que pagar o pagara lo menos posible.  
 								Ahora, me es grato poderles informar que junto con un grupo de compañeros de la Mixteca, que me apoyaron en esta idea, LOGRAMOS integrar  la Organización denominada MIXTECA EXTERIOR, misma que presentamos a ustedes y que por supuesto esta fundada PARA AYUDAR A LA COMUNIDAD EN GENERAL sin ningún interés comercial, sin fines de lucro y dependiente de la aportación de sus miembros. 
 								Junto con nuestra página,  encontraran la información y  los detalles del   1er. Programa de cobertura nacional que desarrollaremos inicialmente en Huajuapan y la Mixteca, que es el de proveer servicios médicos gratuitos a todos los familiares dependientes directos de los miembros de la Organización. 
 								Espero contar con el apoyo de toda la comunidad  para difundir esta información,  contactarnos  y  así conocer de las necesidades de la region para poder determinar  la forma de  cómo podremos ayudar. 
@@ -108,17 +108,12 @@
 							<img src="img/secretaria_.jpg" height="263" width="214" alt="">
 							<br>
 							<p "text-align: justify;">
-								¡Hola a todos!
-								
-								Mi nombre es María Herrera y como secretaria , miembro de nuestra organización y por este medio,
-
-								los invito a todos a que brindemos a nuestras familias la tranquilidad, con un buen servicio médico.
-
-								¿Cómo hacerlo? Inscribiendote como miembro de nuestra organización.
- 
-								Te esperamos y agradecemos por todo su apoyo, para el bienestar de nuestra comunidad.
-								
-								Gracias.
+								¡Hola a todos! Mi nombre es María Herrera, secretaria y miembro de
+								nuestra organización, por este medio los invito a todos a que
+								brindemos a nuestras familias la tranquilidad necesaria con un
+								buen servicio médico. ¿Cómo hacerlo?  Inscribiéndote y formando
+								parte de nuestra iniciativa. Te esperamos y agradecemos tu apoyo,
+								para fortalecer nuestra comunidad. Gracias.
 							</p>
 						</p>
 						
