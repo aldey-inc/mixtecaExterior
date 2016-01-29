@@ -60,7 +60,7 @@
 							<input type="text" class="form-control" id="inputContactNumber" placeholder="Escribe tu número telefónico para comunicarnos contigo">							
 						</div>
 						<div class="form-group">
-							<label for="">Ciudad donde radica</label>							
+							<label for="">Estado donde radica</label>							
 							<select class="form-control">
 							  		<option>Alabama</option>
 									<option>Alaska</option>
