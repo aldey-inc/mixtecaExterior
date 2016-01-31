@@ -214,15 +214,29 @@
 					<br>
 					<p>
 						Para mas información sobre el plan de seguros médicos puede ponerse en contacto con 
-						el departamento de Servicio al Cliente 
+						el departamento de Servicio al Cliente a los siguientes teléfonos o correos electrónicos: 
 					</p>
 					<p>
-						(312) 772-8407 <br>
-						email: osoriorod@hotmail.com
+						email: osoriohgto@hotmail.com<br>
+						+312 772 8407 
+	
 					</p>
-
 					<p>
-						O realiza tu donativo mediante PayPal con el siguiente botón
+						email: osoriorod64@gmail.com<br>
+						+847 910 6928
+					</p>
+					
+					<p>
+						email: maria.herrera0710@gmail.com<br>
+						+847 637 7953
+					</p>
+					<p>
+						O en la ciudad de Huajupan de León en: <br>
+						Valerio Trujano No. 60, Col. Centro <br>
+						953 532 1291
+					</p>
+					<p>
+						De igual forma puedes realizar tu donativo mediante PayPal con el siguiente botón
 					</p>
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3">
