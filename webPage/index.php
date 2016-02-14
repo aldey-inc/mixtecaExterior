@@ -41,7 +41,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 						<h3><span class="glyphicon glyphicon-user"></span> La manera en que puedes apoyar</h3>
 						<p>
-							Con tan solo registrarte y realizar una aportación mensual de $25 DOLARES por al menos 12 meses tu puedes apadrinar en tu país de origen a los que más quieres. 
+							Con tan solo registrarte por 12 meses y realizar una aportación mensual de $25 DOLARES tu puedes asegurar en tu país de origen a los que más quieres. 
 							<br>
 							¡Regístrate hoy mismo!  ¡Es sumamente sencillo! No importa dónde te encuentres.
 							<br>
