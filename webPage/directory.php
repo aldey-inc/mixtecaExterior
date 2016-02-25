@@ -26,101 +26,101 @@
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
-								<img width="200px" src="img/hera.png" alt="">
+								
 					    		<h4 class="panel-title">
 					     			<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true{" aria-controls="collapseOne">
-					          			Hospital de Especialidades Rafael Amador
+					     					<img width="200px" src="img/hera.png" alt="">
+					     					<p>
+					          			Hospital de Especialidades Rafael Amador<br>
+					          			Dr. Luis Demetrio Hernandez Ruiz <br>
+													Director Médico <br>
+													Teléfono de Oficina: 953 5320095, 953 5322771 <br>
+													Celular: 953 1167179 <br>
+													Dirección: <span>Micaela Galindo 78, Esq. Narciso Mendoza, Col. Esquipulas. C.P. 69005 , Huajupan de León, Oax.</span>
+												</p>
+
 					     			</a>
 					      		</h4>
 					    	</div>
 					    	<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 					      		<div class="panel-body">
-					      			<p style="text-align: justify;">
-					        		Esta unidad hospitalaria se encuentra a cargo del 
-									</p>
-									<p style="text-align: justify;">
-										Dr. Luis Demetrio Hernandez Ruiz <br>
-										Director Médico <br>
-										Teléfono de Oficina <br>953 5320095 <br> 953 5322771 <br>
-										Celular  <br>
-										953 1167179
-									</p>
+											<p style="text-align: justify;">
+												<h4>
+													Los servicio médicos que ofrece esta unidad hospitalaria:
+												</h4>
+											</p>
+
+											<p style="text-align: justify;">
+
+												Consulta Externa <br>
+												Hospitalización <br>
+												Endoscopia <br>
+												Laparoscopia <br>
+												Hemodialisis <br>
+												Banco de Sangre <br>
+												Unidad de Oncología y Qumioterapia<br>
+												Ultrasonido y Rayos Equis <br>
+												Laboratorio <br>
+												Capilla <br>
+											</p>
+
+											<p>
+												<h4>
+												Especialidades:
+												</h4>
+											</p>
+
+											<p>
+
+												Gastroenterología Quirúrgica <br>
+												Nefrología <br>
+												Medicina General <br>
+												Urología <br> 
+												Oncología <br>
+												Odontología <br>
+												Odontología Pediátrica <br>
+												Geriatría <br>
+												Terapeuta <br>
+												Psicología <br>
+												Psicología infantil <br>
+												Psquiatría <br>
+												Ginecología <br>
+												Medicina Interna <br>
+											</p>
+											<!--
+											<p>
 
 
-									<p style="text-align: justify;">
-										Los servicio médicos que ofrece esta unidad hospitalaria son los siguientes:
-									</p>
+												<h4>
+												Misión
+												</h4>
+											</p>
+											<p style="text-align: justify;">
 
-									<p style="text-align: justify;">
+												Somos una institución católica sin fines de lucro que brinda servicios de
+												salud general e integral, no importado clases sociales ni credo religioso,
+												contribuyendo al restablecimiento y rehabilitación del estado de salud de
+												nuestros clientes mediante el sentido humano de profesionales altamente 
+												certificados y en un ambiente de cordialidad y confianza, bajo los principios
+												de compromiso con la comunidad, responsabilidad y honestidad.
+											</p>
+											<p>
+												<h4>
+												Visión
+												</h4>
+											</p>
+											<p style="text-align: justify;">
 
-										Consulta Externa <br>
-										Hospitalización <br>
-										Endoscopia <br>
-										Laparoscopia <br>
-										Hemodialisis <br>
-										Banco de Sangre <br>
-										Unidad de Oncología <br>
-										Ultrasonido y Rayos Equis <br>
-										Laboratorio <br>
-										Capilla <br>
-									</p>
-
-									<p>
-										<h4>
-										Especialidades
-										</h4>
-									</p>
-
-									<p>
-
-										Gastroenterología Quirúrgica <br>
-										Nefrología <br>
-										Medicina General <br>
-										Urologia <br> 
-										Oncologia <br>
-										Odontologia <br>
-										Odontología Pediátrica <br>
-										Geriatria <br>
-										Terapeuta <br>
-										Psicología <br>
-										Psicología infantil <br>
-										Psquiatria <br>
-										Ginecología <br>
-										Medicina Interna <br>
-									</p>
-
-									<p>
-
-
-										<h4>
-										Misión
-										</h4>
-									</p>
-									<p style="text-align: justify;">
-
-										Somos una institución católica sin fines de lucro que brinda servicios de
-										salud general e integral, no importado clases sociales ni credo religioso,
-										contribuyendo al restablecimiento y rehabilitación del estado de salud de
-										nuestros clientes mediante el sentido humano de profesionales altamente 
-										certificados y en un ambiente de cordialidad y confianza, bajo los principios
-										de compromiso con la comunidad, responsabilidad y honestidad.
-									</p>
-									<p>
-										<h4>
-										Visión
-										</h4>
-									</p>
-									<p style="text-align: justify;">
-
-										Ser una institución católica lider en la representación de los servicios de
-										salud en la región mixteca, abierto a la población en general y comprometida
-										con la población de bajos recursos, priorizando la atención a la mixteca, bajo
-										principios éticos, morales y profesionales brindar apoyo total a la comunidad 
-										sin importar credo religión, clase social o genero, sustentada en la vanguardia
-										tegnológica y modernidad médica que permita ser sede de un campo clínico para
-										los profesionales en formación de salud e investigación para ofrecer servicios
-										con el más alto nivel en las áreas marginadas de nuestra región.
-									</p>
+												Ser una institución católica lider en la representación de los servicios de
+												salud en la región mixteca, abierto a la población en general y comprometida
+												con la población de bajos recursos, priorizando la atención a la mixteca, bajo
+												principios éticos, morales y profesionales brindar apoyo total a la comunidad 
+												sin importar credo religión, clase social o genero, sustentada en la vanguardia
+												tegnológica y modernidad médica que permita ser sede de un campo clínico para
+												los profesionales en formación de salud e investigación para ofrecer servicios
+												con el más alto nivel en las áreas marginadas de nuestra región.
+											</p>
+											-->
 						      	</div>
 					    	</div>
 					    </div>
