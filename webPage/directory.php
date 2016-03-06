@@ -32,6 +32,7 @@
 					     					<img width="200px" src="img/hera.png" alt="">
 					     					<p>
 					          			<h4>Hospital de Especialidades Rafael Amador</h4><br>					          			
+					          			<h4>Dr. Luis Demetrio Hernández Ruíz</h4><br>					          			
 													<span>Micaela Galindo 78, Esq. Narciso Mendoza, Col. Esquipulas. C.P. 69005 , Huajupan de León, Oax.</span>
 												</p>
 
