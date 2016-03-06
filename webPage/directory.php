@@ -31,12 +31,8 @@
 					     			<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true{" aria-controls="collapseOne">
 					     					<img width="200px" src="img/hera.png" alt="">
 					     					<p>
-					          			Hospital de Especialidades Rafael Amador<br>
-					          			Dr. Luis Demetrio Hernandez Ruiz <br>
-													Director Médico <br>
-													Teléfono de Oficina: 953 5320095, 953 5322771 <br>
-													Celular: 953 1167179 <br>
-													Dirección: <span>Micaela Galindo 78, Esq. Narciso Mendoza, Col. Esquipulas. C.P. 69005 , Huajupan de León, Oax.</span>
+					          			<h4>Hospital de Especialidades Rafael Amador</h4><br>					          			
+													<span>Micaela Galindo 78, Esq. Narciso Mendoza, Col. Esquipulas. C.P. 69005 , Huajupan de León, Oax.</span>
 												</p>
 
 					     			</a>
