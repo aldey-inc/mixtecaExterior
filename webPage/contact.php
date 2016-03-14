@@ -35,6 +35,168 @@
 							<input name="lastname" type="text" class="form-control" id="inputLastname" placeholder="Introduce tus apellidos" required>
 						</div>
 						<div class="form-group">
+							<label for="gender">Sexo</label>				  	
+						</div>
+
+						<div class="checkbox">
+					    	<label>
+					      	<input type="radio" name="gender" value="Hombre" required> Hombre
+					    	</label>
+					    	<label>
+					      	<input type="radio" name="gender" value"Mujer" required> Mujer
+					    	</label>					    
+					  </div>
+
+						<div class="form-group">
+							<label for="birthday">Fecha de Nacimiento</label>
+							<select name="day" class="form-control">
+							  <option>1</option>
+							  <option>2</option>
+							  <option>3</option>
+							  <option>4</option>
+							  <option>5</option>
+							  <option>6</option>
+							  <option>7</option>
+							  <option>8</option>
+							  <option>9</option>
+							  <option>10</option>
+							  <option>11</option>
+							  <option>12</option>
+							  <option>13</option>
+							  <option>14</option>
+							  <option>15</option>
+							  <option>16</option>
+							  <option>17</option>
+							  <option>18</option>
+							  <option>19</option>
+							  <option>20</option>
+							  <option>21</option>
+							  <option>22</option>
+							  <option>23</option>
+							  <option>24</option>
+							  <option>25</option>
+							  <option>26</option>
+							  <option>27</option>
+							  <option>28</option>
+							  <option>29</option>
+							  <option>30</option>
+							  <option>31</option>
+							</select>
+							<select name="month" class="form-control">
+							  <option>Enero</option>
+							  <option>Febrero</option>
+							  <option>Marzo</option>
+							  <option>Abril</option>
+							  <option>Mayo</option>
+							  <option>Junio</option>
+							  <option>Julio</option>
+							  <option>Agosto</option>
+							  <option>Septiembre</option>
+							  <option>Octubre</option>
+							  <option>Noviembre</option>
+							  <option>Diciembre</option>							  
+							</select>
+							<select name="year" class="form-control">
+							  <option>1920</option>
+							  <option>1921</option>
+							  <option>1922</option>
+							  <option>1923</option>
+							  <option>1924</option>
+							  <option>1925</option>
+							  <option>1926</option>
+							  <option>1927</option>
+							  <option>1928</option>
+							  <option>1929</option>							  
+							  <option>1930</option>
+							  <option>1931</option>
+							  <option>1932</option>
+							  <option>1933</option>
+							  <option>1934</option>
+							  <option>1935</option>
+							  <option>1936</option>
+							  <option>1937</option>
+							  <option>1938</option>
+							  <option>1939</option>
+								<option>1940</option>
+							  <option>1941</option>
+							  <option>1942</option>
+							  <option>1943</option>
+							  <option>1944</option>
+							  <option>1945</option>
+							  <option>1946</option>
+							  <option>1947</option>
+							  <option>1948</option>
+							  <option>1949</option>
+							  <option>1950</option>
+							  <option>1951</option>
+							  <option>1952</option>
+							  <option>1953</option>
+							  <option>1954</option>
+							  <option>1955</option>
+							  <option>1956</option>
+							  <option>1957</option>
+							  <option>1958</option>
+							  <option>1959</option>
+							  <option>1960</option>
+							  <option>1961</option>
+							  <option>1962</option>
+							  <option>1963</option>
+							  <option>1964</option>
+							  <option>1965</option>
+							  <option>1966</option>
+							  <option>1967</option>
+							  <option>1968</option>
+							  <option>1969</option>
+							  <option>1970</option>
+							  <option>1971</option>
+							  <option>1972</option>
+							  <option>1973</option>
+							  <option>1974</option>
+							  <option>1975</option>
+							  <option>1976</option>
+							  <option>1977</option>
+							  <option>1978</option>
+							  <option>1979</option>
+							  <option>1980</option>
+							  <option>1981</option>
+							  <option>1982</option>
+							  <option>1983</option>
+							  <option>1984</option>
+							  <option>1985</option>
+							  <option>1986</option>
+							  <option>1987</option>
+							  <option>1988</option>
+							  <option>1989</option>
+							  <option>1990</option>
+							  <option>1991</option>
+							  <option>1992</option>
+							  <option>1993</option>
+							  <option>1994</option>
+							  <option>1995</option>
+							  <option>1996</option>
+							  <option>1997</option>
+							  <option>1998</option>
+							  <option>1999</option>
+							  <option>2000</option>
+							  <option>2001</option>
+							  <option>2002</option>
+							  <option>2003</option>
+							  <option>2004</option>
+							  <option>2005</option>
+							  <option>2006</option>
+							  <option>2007</option>
+							  <option>2008</option>
+							  <option>2009</option>
+							  <option>2010</option>
+							  <option>2011</option>
+							  <option>2012</option>
+							  <option>2013</option>
+							  <option>2014</option>
+							  <option>2015</option>
+							  <option>2016</option>
+							</select>
+						</div>
+						<div class="form-group">
 					    	<label>Forma de identificación</label>					    	
 					  	</div>
 					  	<div class="checkbox">
@@ -62,7 +224,7 @@
 						<div class="form-group">
 							<label for="">Estado donde radica</label>							
 							<select name="city" class="form-control">
-							  		<option>Alabama</option>
+							  	<option>Alabama</option>
 									<option>Alaska</option>
 									<option>Arizona</option>
 									<option>Arkansas</option>
@@ -126,26 +288,199 @@
 					    	<input name="email" type="email" class="form-control" id="inputEmail" placeholder="Escribe tu correo electrónico" required>
 					  	</div>
 
-					  	<label >Datos de personas a asegurar </label>
+					  	<label>Datos de personas a asegurar </label>
 					  	<div class="well">
 					  		<div class="well">
 						  		<div class="form-group">
 							    	<label for="inputAdress">Nombre del asegurado 1</label>
 							    	<input name="name1" type="text" class="form-control" id="inputLastname" placeholder="Introduce el nombre completo con apellidos de la persona a asegurar" required>
 							  	</div>
+
 							  	<div class="form-group">
-									<label for="">Relación o parentezco con usted</label>							
-									<select name="relation1" class="form-control">
-									  		<option>Esposo (a)</option>
-											<option>Hijo (a)</option>
-											<option>Padre</option>
-											<option>Madre</option>													 
-									</select>
-								</div>
-								<div class="form-group">
-									<label for="inputLastname">Dirección</label>							
-									<textarea name="address1" class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad" required></textarea>					    	
-								</div>	
+										<label for="gender1">Sexo</label>										
+
+										<div class="checkbox">
+									    	<label>
+									      	<input type="radio" name="gender1" value="Hombre" required> Hombre
+									    	</label>
+									    	<label>
+									      	<input type="radio" name="gender1" value"Mujer" required> Mujer
+									    	</label>					    
+									  </div>
+								  </div>
+							  	
+							  	<div class="form-group">
+										<label for="birthday1">Fecha de Nacimiento</label>
+										<select name="day1" class="form-control">
+										  <option>1</option>
+										  <option>2</option>
+										  <option>3</option>
+										  <option>4</option>
+										  <option>5</option>
+										  <option>6</option>
+										  <option>7</option>
+										  <option>8</option>
+										  <option>9</option>
+										  <option>10</option>
+										  <option>11</option>
+										  <option>12</option>
+										  <option>13</option>
+										  <option>14</option>
+										  <option>15</option>
+										  <option>16</option>
+										  <option>17</option>
+										  <option>18</option>
+										  <option>19</option>
+										  <option>20</option>
+										  <option>21</option>
+										  <option>22</option>
+										  <option>23</option>
+										  <option>24</option>
+										  <option>25</option>
+										  <option>26</option>
+										  <option>27</option>
+										  <option>28</option>
+										  <option>29</option>
+										  <option>30</option>
+										  <option>31</option>
+										</select>
+										<select name="month1" class="form-control">
+										  <option>Enero</option>
+										  <option>Febrero</option>
+										  <option>Marzo</option>
+										  <option>Abril</option>
+										  <option>Mayo</option>
+										  <option>Junio</option>
+										  <option>Julio</option>
+										  <option>Agosto</option>
+										  <option>Septiembre</option>
+										  <option>Octubre</option>
+										  <option>Noviembre</option>
+										  <option>Diciembre</option>							  
+										</select>
+										<select name="year1" class="form-control">
+										  <option>1920</option>
+										  <option>1921</option>
+										  <option>1922</option>
+										  <option>1923</option>
+										  <option>1924</option>
+										  <option>1925</option>
+										  <option>1926</option>
+										  <option>1927</option>
+										  <option>1928</option>
+										  <option>1929</option>							  
+										  <option>1930</option>
+										  <option>1931</option>
+										  <option>1932</option>
+										  <option>1933</option>
+										  <option>1934</option>
+										  <option>1935</option>
+										  <option>1936</option>
+										  <option>1937</option>
+										  <option>1938</option>
+										  <option>1939</option>
+											<option>1940</option>
+										  <option>1941</option>
+										  <option>1942</option>
+										  <option>1943</option>
+										  <option>1944</option>
+										  <option>1945</option>
+										  <option>1946</option>
+										  <option>1947</option>
+										  <option>1948</option>
+										  <option>1949</option>
+										  <option>1950</option>
+										  <option>1951</option>
+										  <option>1952</option>
+										  <option>1953</option>
+										  <option>1954</option>
+										  <option>1955</option>
+										  <option>1956</option>
+										  <option>1957</option>
+										  <option>1958</option>
+										  <option>1959</option>
+										  <option>1960</option>
+										  <option>1961</option>
+										  <option>1962</option>
+										  <option>1963</option>
+										  <option>1964</option>
+										  <option>1965</option>
+										  <option>1966</option>
+										  <option>1967</option>
+										  <option>1968</option>
+										  <option>1969</option>
+										  <option>1970</option>
+										  <option>1971</option>
+										  <option>1972</option>
+										  <option>1973</option>
+										  <option>1974</option>
+										  <option>1975</option>
+										  <option>1976</option>
+										  <option>1977</option>
+										  <option>1978</option>
+										  <option>1979</option>
+										  <option>1980</option>
+										  <option>1981</option>
+										  <option>1982</option>
+										  <option>1983</option>
+										  <option>1984</option>
+										  <option>1985</option>
+										  <option>1986</option>
+										  <option>1987</option>
+										  <option>1988</option>
+										  <option>1989</option>
+										  <option>1990</option>
+										  <option>1991</option>
+										  <option>1992</option>
+										  <option>1993</option>
+										  <option>1994</option>
+										  <option>1995</option>
+										  <option>1996</option>
+										  <option>1997</option>
+										  <option>1998</option>
+										  <option>1999</option>
+										  <option>2000</option>
+										  <option>2001</option>
+										  <option>2002</option>
+										  <option>2003</option>
+										  <option>2004</option>
+										  <option>2005</option>
+										  <option>2006</option>
+										  <option>2007</option>
+										  <option>2008</option>
+										  <option>2009</option>
+										  <option>2010</option>
+										  <option>2011</option>
+										  <option>2012</option>
+										  <option>2013</option>
+										  <option>2014</option>
+										  <option>2015</option>
+										  <option>2016</option>
+										</select>
+									</div>
+									<div class="form-group">
+										<label for="">Relación o parentezco con usted</label>							
+										<select name="relation1" class="form-control">												
+												<option>Seleccione si es el caso</option>
+										  	<option>Esposo (a)</option>
+												<option>Hijo (a)</option>
+												<option>Padre</option>
+												<option>Madre</option>											 
+										</select>
+									</div>
+									<div class="form-group">
+										<label for="">Otro tipo de parentezco con usted</label>							
+										<select name="otherRelation1" class="form-control">
+												<option>Seleccione si es el caso</option>
+										  	<option>Hermano (a)</option>
+												<option>Primo (a)</option>
+												<option>Abuelito (a)</option>												
+										</select>
+									</div>
+									<div class="form-group">
+										<label for="inputLastname">Dirección</label>							
+										<textarea name="address1" class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad" required></textarea>					    	
+									</div>	
 							</div>	
 							<div class="well">
 						  		<div class="form-group">
@@ -153,14 +488,185 @@
 							    	<input name="name2" type="text" class="form-control" id="inputLastname" placeholder="Introduce el nombre completo con apellidos de la persona a asegurar">
 							  	</div>
 							  	<div class="form-group">
-									<label for="">Relación o parentezco con usted</label>							
-									<select name="relation2" class="form-control">
-									  		<option>Esposo (a)</option>
+										<label for="gender2">Sexo</label>										
+
+										<div class="checkbox">
+									    	<label>
+									      	<input type="radio" name="gender2" value="Hombre" required> Hombre
+									    	</label>
+									    	<label>
+									      	<input type="radio" name="gender2" value"Mujer" required> Mujer
+									    	</label>					    
+									  </div>
+								  </div>
+							  	<div class="form-group">
+										<label for="birthday2">Fecha de Nacimiento</label>
+										<select name="day2" class="form-control">
+										  <option>1</option>
+										  <option>2</option>
+										  <option>3</option>
+										  <option>4</option>
+										  <option>5</option>
+										  <option>6</option>
+										  <option>7</option>
+										  <option>8</option>
+										  <option>9</option>
+										  <option>10</option>
+										  <option>11</option>
+										  <option>12</option>
+										  <option>13</option>
+										  <option>14</option>
+										  <option>15</option>
+										  <option>16</option>
+										  <option>17</option>
+										  <option>18</option>
+										  <option>19</option>
+										  <option>20</option>
+										  <option>21</option>
+										  <option>22</option>
+										  <option>23</option>
+										  <option>24</option>
+										  <option>25</option>
+										  <option>26</option>
+										  <option>27</option>
+										  <option>28</option>
+										  <option>29</option>
+										  <option>30</option>
+										  <option>31</option>
+										</select>
+										<select name="month2" class="form-control">
+										  <option>Enero</option>
+										  <option>Febrero</option>
+										  <option>Marzo</option>
+										  <option>Abril</option>
+										  <option>Mayo</option>
+										  <option>Junio</option>
+										  <option>Julio</option>
+										  <option>Agosto</option>
+										  <option>Septiembre</option>
+										  <option>Octubre</option>
+										  <option>Noviembre</option>
+										  <option>Diciembre</option>							  
+										</select>
+										<select name="year2" class="form-control">
+										  <option>1920</option>
+										  <option>1921</option>
+										  <option>1922</option>
+										  <option>1923</option>
+										  <option>1924</option>
+										  <option>1925</option>
+										  <option>1926</option>
+										  <option>1927</option>
+										  <option>1928</option>
+										  <option>1929</option>							  
+										  <option>1930</option>
+										  <option>1931</option>
+										  <option>1932</option>
+										  <option>1933</option>
+										  <option>1934</option>
+										  <option>1935</option>
+										  <option>1936</option>
+										  <option>1937</option>
+										  <option>1938</option>
+										  <option>1939</option>
+											<option>1940</option>
+										  <option>1941</option>
+										  <option>1942</option>
+										  <option>1943</option>
+										  <option>1944</option>
+										  <option>1945</option>
+										  <option>1946</option>
+										  <option>1947</option>
+										  <option>1948</option>
+										  <option>1949</option>
+										  <option>1950</option>
+										  <option>1951</option>
+										  <option>1952</option>
+										  <option>1953</option>
+										  <option>1954</option>
+										  <option>1955</option>
+										  <option>1956</option>
+										  <option>1957</option>
+										  <option>1958</option>
+										  <option>1959</option>
+										  <option>1960</option>
+										  <option>1961</option>
+										  <option>1962</option>
+										  <option>1963</option>
+										  <option>1964</option>
+										  <option>1965</option>
+										  <option>1966</option>
+										  <option>1967</option>
+										  <option>1968</option>
+										  <option>1969</option>
+										  <option>1970</option>
+										  <option>1971</option>
+										  <option>1972</option>
+										  <option>1973</option>
+										  <option>1974</option>
+										  <option>1975</option>
+										  <option>1976</option>
+										  <option>1977</option>
+										  <option>1978</option>
+										  <option>1979</option>
+										  <option>1980</option>
+										  <option>1981</option>
+										  <option>1982</option>
+										  <option>1983</option>
+										  <option>1984</option>
+										  <option>1985</option>
+										  <option>1986</option>
+										  <option>1987</option>
+										  <option>1988</option>
+										  <option>1989</option>
+										  <option>1990</option>
+										  <option>1991</option>
+										  <option>1992</option>
+										  <option>1993</option>
+										  <option>1994</option>
+										  <option>1995</option>
+										  <option>1996</option>
+										  <option>1997</option>
+										  <option>1998</option>
+										  <option>1999</option>
+										  <option>2000</option>
+										  <option>2001</option>
+										  <option>2002</option>
+										  <option>2003</option>
+										  <option>2004</option>
+										  <option>2005</option>
+										  <option>2006</option>
+										  <option>2007</option>
+										  <option>2008</option>
+										  <option>2009</option>
+										  <option>2010</option>
+										  <option>2011</option>
+										  <option>2012</option>
+										  <option>2013</option>
+										  <option>2014</option>
+										  <option>2015</option>
+										  <option>2016</option>
+										</select>
+									</div>
+							  	<div class="form-group">
+										<label for="">Relación o parentezco con usted</label>							
+										<select name="relation2" class="form-control">
+											<option>Seleccione si es el caso</option>
+											<option>Esposo (a)</option>
 											<option>Hijo (a)</option>
 											<option>Padre</option>
 											<option>Madre</option>													 
-									</select>
-								</div>
+										</select>
+									</div>
+									<div class="form-group">
+										<label for="">Otro tipo de parentezco con usted</label>							
+										<select name="otherRelation2" class="form-control">
+												<option>Seleccione si es el caso</option>
+										  	<option>Hermano (a)</option>
+												<option>Primo (a)</option>
+												<option>Abuelito (a)</option>												
+										</select>
+									</div>
 								<div class="form-group">
 									<label for="inputLastname">Dirección</label>							
 									<textarea name="address2" class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad"></textarea>					    	
@@ -172,14 +678,185 @@
 							    	<input name="name3" type="text" class="form-control" id="inputLastname" placeholder="Introduce el nombre completo con apellidos de la persona a asegurar">
 							  	</div>
 							  	<div class="form-group">
-									<label for="">Relación o parentezco con usted</label>							
-									<select name="relation3" class="form-control">
-									  		<option>Esposo (a)</option>
-											<option>Hijo (a)</option>
-											<option>Padre</option>
-											<option>Madre</option>													 
-									</select>
-								</div>
+										<label for="gender3">Sexo</label>										
+
+										<div class="checkbox">
+									    	<label>
+									      	<input type="radio" name="gender3" value="Hombre" required> Hombre
+									    	</label>
+									    	<label>
+									      	<input type="radio" name="gender3" value"Mujer" required> Mujer
+									    	</label>					    
+									  </div>
+								  </div>
+							  	<div class="form-group">
+										<label for="birthday3">Fecha de Nacimiento</label>
+										<select name="day3" class="form-control">
+										  <option>1</option>
+										  <option>2</option>
+										  <option>3</option>
+										  <option>4</option>
+										  <option>5</option>
+										  <option>6</option>
+										  <option>7</option>
+										  <option>8</option>
+										  <option>9</option>
+										  <option>10</option>
+										  <option>11</option>
+										  <option>12</option>
+										  <option>13</option>
+										  <option>14</option>
+										  <option>15</option>
+										  <option>16</option>
+										  <option>17</option>
+										  <option>18</option>
+										  <option>19</option>
+										  <option>20</option>
+										  <option>21</option>
+										  <option>22</option>
+										  <option>23</option>
+										  <option>24</option>
+										  <option>25</option>
+										  <option>26</option>
+										  <option>27</option>
+										  <option>28</option>
+										  <option>29</option>
+										  <option>30</option>
+										  <option>31</option>
+										</select>
+										<select name="month3" class="form-control">
+										  <option>Enero</option>
+										  <option>Febrero</option>
+										  <option>Marzo</option>
+										  <option>Abril</option>
+										  <option>Mayo</option>
+										  <option>Junio</option>
+										  <option>Julio</option>
+										  <option>Agosto</option>
+										  <option>Septiembre</option>
+										  <option>Octubre</option>
+										  <option>Noviembre</option>
+										  <option>Diciembre</option>							  
+										</select>
+										<select name="year3" class="form-control">
+										  <option>1920</option>
+										  <option>1921</option>
+										  <option>1922</option>
+										  <option>1923</option>
+										  <option>1924</option>
+										  <option>1925</option>
+										  <option>1926</option>
+										  <option>1927</option>
+										  <option>1928</option>
+										  <option>1929</option>							  
+										  <option>1930</option>
+										  <option>1931</option>
+										  <option>1932</option>
+										  <option>1933</option>
+										  <option>1934</option>
+										  <option>1935</option>
+										  <option>1936</option>
+										  <option>1937</option>
+										  <option>1938</option>
+										  <option>1939</option>
+											<option>1940</option>
+										  <option>1941</option>
+										  <option>1942</option>
+										  <option>1943</option>
+										  <option>1944</option>
+										  <option>1945</option>
+										  <option>1946</option>
+										  <option>1947</option>
+										  <option>1948</option>
+										  <option>1949</option>
+										  <option>1950</option>
+										  <option>1951</option>
+										  <option>1952</option>
+										  <option>1953</option>
+										  <option>1954</option>
+										  <option>1955</option>
+										  <option>1956</option>
+										  <option>1957</option>
+										  <option>1958</option>
+										  <option>1959</option>
+										  <option>1960</option>
+										  <option>1961</option>
+										  <option>1962</option>
+										  <option>1963</option>
+										  <option>1964</option>
+										  <option>1965</option>
+										  <option>1966</option>
+										  <option>1967</option>
+										  <option>1968</option>
+										  <option>1969</option>
+										  <option>1970</option>
+										  <option>1971</option>
+										  <option>1972</option>
+										  <option>1973</option>
+										  <option>1974</option>
+										  <option>1975</option>
+										  <option>1976</option>
+										  <option>1977</option>
+										  <option>1978</option>
+										  <option>1979</option>
+										  <option>1980</option>
+										  <option>1981</option>
+										  <option>1982</option>
+										  <option>1983</option>
+										  <option>1984</option>
+										  <option>1985</option>
+										  <option>1986</option>
+										  <option>1987</option>
+										  <option>1988</option>
+										  <option>1989</option>
+										  <option>1990</option>
+										  <option>1991</option>
+										  <option>1992</option>
+										  <option>1993</option>
+										  <option>1994</option>
+										  <option>1995</option>
+										  <option>1996</option>
+										  <option>1997</option>
+										  <option>1998</option>
+										  <option>1999</option>
+										  <option>2000</option>
+										  <option>2001</option>
+										  <option>2002</option>
+										  <option>2003</option>
+										  <option>2004</option>
+										  <option>2005</option>
+										  <option>2006</option>
+										  <option>2007</option>
+										  <option>2008</option>
+										  <option>2009</option>
+										  <option>2010</option>
+										  <option>2011</option>
+										  <option>2012</option>
+										  <option>2013</option>
+										  <option>2014</option>
+										  <option>2015</option>
+										  <option>2016</option>
+										</select>
+									</div>
+							  	<div class="form-group">
+										<label for="">Relación o parentezco con usted</label>							
+										<select name="relation3" class="form-control">												
+												<option>Seleccione si es el caso</option>
+										  	<option>Esposo (a)</option>
+												<option>Hijo (a)</option>
+												<option>Padre</option>
+												<option>Madre</option>											 
+										</select>
+									</div>
+									<div class="form-group">
+										<label for="">Otro tipo de parentezco con usted</label>							
+										<select name="otherRelation3" class="form-control">
+												<option>Seleccione si es el caso</option>
+										  	<option>Hermano (a)</option>
+												<option>Primo (a)</option>
+												<option>Abuelito (a)</option>												
+										</select>
+									</div>
 								<div class="form-group">
 									<label for="inputLastname">Dirección</label>							
 									<textarea name="address3" class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad"></textarea>					    	
@@ -191,22 +868,193 @@
 							    	<input name="name4" type="text" class="form-control" id="inputLastname" placeholder="Introduce el nombre completo con apellidos de la persona a asegurar">
 							  	</div>
 							  	<div class="form-group">
-									<label for="">Relación o parentezco con usted</label>							
-									<select name="relation4" class="form-control">
-									  		<option>Esposo (a)</option>
-											<option>Hijo (a)</option>
-											<option>Padre</option>
-											<option>Madre</option>													 
-									</select>
-								</div>
-								<div class="form-group">
-									<label for="inputLastname">Dirección</label>							
-									<textarea name="address4" class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad"></textarea>					    	
-								</div>	
+										<label for="gender4">Sexo</label>										
+
+										<div class="checkbox">
+									    	<label>
+									      	<input type="radio" name="gender4" value="Hombre" required> Hombre
+									    	</label>
+									    	<label>
+									      	<input type="radio" name="gender4" value"Mujer" required> Mujer
+									    	</label>					    
+									  </div>
+								  </div>
+							  	<div class="form-group">
+										<label for="birthday4">Fecha de Nacimiento</label>
+										<select name="day4" class="form-control">
+										  <option>1</option>
+										  <option>2</option>
+										  <option>3</option>
+										  <option>4</option>
+										  <option>5</option>
+										  <option>6</option>
+										  <option>7</option>
+										  <option>8</option>
+										  <option>9</option>
+										  <option>10</option>
+										  <option>11</option>
+										  <option>12</option>
+										  <option>13</option>
+										  <option>14</option>
+										  <option>15</option>
+										  <option>16</option>
+										  <option>17</option>
+										  <option>18</option>
+										  <option>19</option>
+										  <option>20</option>
+										  <option>21</option>
+										  <option>22</option>
+										  <option>23</option>
+										  <option>24</option>
+										  <option>25</option>
+										  <option>26</option>
+										  <option>27</option>
+										  <option>28</option>
+										  <option>29</option>
+										  <option>30</option>
+										  <option>31</option>
+										</select>
+										<select name="month4" class="form-control">
+										  <option>Enero</option>
+										  <option>Febrero</option>
+										  <option>Marzo</option>
+										  <option>Abril</option>
+										  <option>Mayo</option>
+										  <option>Junio</option>
+										  <option>Julio</option>
+										  <option>Agosto</option>
+										  <option>Septiembre</option>
+										  <option>Octubre</option>
+										  <option>Noviembre</option>
+										  <option>Diciembre</option>							  
+										</select>
+										<select name="year4" class="form-control">
+										  <option>1920</option>
+										  <option>1921</option>
+										  <option>1922</option>
+										  <option>1923</option>
+										  <option>1924</option>
+										  <option>1925</option>
+										  <option>1926</option>
+										  <option>1927</option>
+										  <option>1928</option>
+										  <option>1929</option>							  
+										  <option>1930</option>
+										  <option>1931</option>
+										  <option>1932</option>
+										  <option>1933</option>
+										  <option>1934</option>
+										  <option>1935</option>
+										  <option>1936</option>
+										  <option>1937</option>
+										  <option>1938</option>
+										  <option>1939</option>
+											<option>1940</option>
+										  <option>1941</option>
+										  <option>1942</option>
+										  <option>1943</option>
+										  <option>1944</option>
+										  <option>1945</option>
+										  <option>1946</option>
+										  <option>1947</option>
+										  <option>1948</option>
+										  <option>1949</option>
+										  <option>1950</option>
+										  <option>1951</option>
+										  <option>1952</option>
+										  <option>1953</option>
+										  <option>1954</option>
+										  <option>1955</option>
+										  <option>1956</option>
+										  <option>1957</option>
+										  <option>1958</option>
+										  <option>1959</option>
+										  <option>1960</option>
+										  <option>1961</option>
+										  <option>1962</option>
+										  <option>1963</option>
+										  <option>1964</option>
+										  <option>1965</option>
+										  <option>1966</option>
+										  <option>1967</option>
+										  <option>1968</option>
+										  <option>1969</option>
+										  <option>1970</option>
+										  <option>1971</option>
+										  <option>1972</option>
+										  <option>1973</option>
+										  <option>1974</option>
+										  <option>1975</option>
+										  <option>1976</option>
+										  <option>1977</option>
+										  <option>1978</option>
+										  <option>1979</option>
+										  <option>1980</option>
+										  <option>1981</option>
+										  <option>1982</option>
+										  <option>1983</option>
+										  <option>1984</option>
+										  <option>1985</option>
+										  <option>1986</option>
+										  <option>1987</option>
+										  <option>1988</option>
+										  <option>1989</option>
+										  <option>1990</option>
+										  <option>1991</option>
+										  <option>1992</option>
+										  <option>1993</option>
+										  <option>1994</option>
+										  <option>1995</option>
+										  <option>1996</option>
+										  <option>1997</option>
+										  <option>1998</option>
+										  <option>1999</option>
+										  <option>2000</option>
+										  <option>2001</option>
+										  <option>2002</option>
+										  <option>2003</option>
+										  <option>2004</option>
+										  <option>2005</option>
+										  <option>2006</option>
+										  <option>2007</option>
+										  <option>2008</option>
+										  <option>2009</option>
+										  <option>2010</option>
+										  <option>2011</option>
+										  <option>2012</option>
+										  <option>2013</option>
+										  <option>2014</option>
+										  <option>2015</option>
+										  <option>2016</option>
+										</select>
+									</div>
+							  	<div class="form-group">
+										<label for="">Relación o parentezco con usted</label>							
+										<select name="relation4" class="form-control">												
+												<option>Seleccione si es el caso</option>
+										  	<option>Esposo (a)</option>
+												<option>Hijo (a)</option>
+												<option>Padre</option>
+												<option>Madre</option>											 
+										</select>
+									</div>
+									<div class="form-group">
+										<label for="">Otro tipo de parentezco con usted</label>							
+										<select name="otherRelation4" class="form-control">
+												<option>Seleccione si es el caso</option>
+										  	<option>Hermano (a)</option>
+												<option>Primo (a)</option>
+												<option>Abuelito (a)</option>												
+										</select>
+									</div>
+									<div class="form-group">
+										<label for="inputLastname">Dirección</label>							
+										<textarea name="address4" class="form-control" rows="3" placeholder="Escribe la dirección de tu asegurado: Calle, Número, Colonia, Ciudad"></textarea>					    	
+									</div>	
 							</div>	
 						</div>
 						<button type="submit" class="btn btn-default">Registrar</button>
-						<br>Nota: Si usted solicita el servicio por alguien más, favor de ponerse en contacto con nosotros mediante nuestro correo o número telefónico.
+						<br>Nota: Si usted solicita el servicio por alguien más o si usted requiere el servicio médico con su médico de confianza, favor de ponerse en contacto con nosotros mediante nuestro correo o número telefónico.
 					</form>
 				</div>
 
