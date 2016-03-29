@@ -1099,26 +1099,37 @@
 						
 					</p>
 					<p>
-						De igual forma puedes realizar tu donativo mediante PayPal con el siguiente botón
+						Existen multiples formas en las que puedes apoyar a los que más quieres, elige y da clic en el tipo de aportación que deseas realizar.
 					</p>
-					<div class="row">
-						<div class="col-md-6 col-md-offset-3">
-							<div class="paypal">
-								<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-									<input type="hidden" name="business" value="OSORIOROD@HOTMAIL.COM"/>
-									<input type="hidden" name="cmd" value="_xclick"/>
-									<input type="hidden" name="item_name" value="01IL001"/>
-									<input type="hidden" name="amount" value="25"/>
-									<input type="hidden" name="currency_code" value="USD"/>
-									<input type="hidden" name="shipping" value="0"/>
-									<input type="hidden" name="tax_rate" value="0"/>		
-									<input type="image" name="submit" border="0" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" alt="PayPal - The safer, easier way to pay online"/>
-									<img alt="" border="0" width="1" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif"/>
-								</form>
-							</div>
-						</div>
-						<div class="col-md-3"></div>
-					</div>
+					
+					<!-- Donacion normal -->
+					<?php include 'donation/normalDonation.php'; ?>
+
+					<!-- *Donacion de Evento Educativo -->
+					<?php include 'donation/educationalEventDonation.php'; ?>
+					
+					<!-- *Donacion de Evento Social -->
+					<?php include 'donation/socialEventDonation.php'; ?>
+					
+					<!-- *Donacin de Evento Cultural -->
+					<?php include 'donation/culturalEventDonation.php'; ?>
+			
+					<!-- *Donacion de Evento Deportivo-->
+					<?php include 'donation/sportingEventDonation.php'; ?>
+
+					<!-- *Donacion de Otro Evento -->
+					<?php include 'donation/otherEventDonation.php'; ?>					
+
+					<!-- Donacion de servicio expres -->
+					<?php include 'donation/expressDonation.php'; ?>
+
+					<!-- *Donacion de Caso Medico Mayor -->
+					<?php include 'donation/majorMedicalExpensesDonation.php'; ?>
+
+					<!-- *Donacion de Emergencias -->
+					<?php include 'donation/emergencyDonation.php'; ?>
+					
+
 					
 				</div>
 			</div>
