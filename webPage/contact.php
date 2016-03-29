@@ -474,7 +474,10 @@
 												<option>Seleccione si es el caso</option>
 										  	<option>Hermano (a)</option>
 												<option>Primo (a)</option>
-												<option>Abuelito (a)</option>												
+												<option>Abuelito (a)</option>	
+												<option>Sobrino (a)</option>						
+												<option>Tio (a)</option>						
+												<option>Otro</option>																					
 										</select>
 									</div>
 									<div class="form-group">
@@ -664,7 +667,10 @@
 												<option>Seleccione si es el caso</option>
 										  	<option>Hermano (a)</option>
 												<option>Primo (a)</option>
-												<option>Abuelito (a)</option>												
+												<option>Abuelito (a)</option>	
+												<option>Sobrino (a)</option>						
+												<option>Tio (a)</option>			
+												<option>Otro</option>																					
 										</select>
 									</div>
 								<div class="form-group">
@@ -854,7 +860,10 @@
 												<option>Seleccione si es el caso</option>
 										  	<option>Hermano (a)</option>
 												<option>Primo (a)</option>
-												<option>Abuelito (a)</option>												
+												<option>Abuelito (a)</option>	
+												<option>Sobrino (a)</option>						
+												<option>Tio (a)</option>												
+												<option>Otro</option>												
 										</select>
 									</div>
 								<div class="form-group">
@@ -1044,7 +1053,10 @@
 												<option>Seleccione si es el caso</option>
 										  	<option>Hermano (a)</option>
 												<option>Primo (a)</option>
-												<option>Abuelito (a)</option>												
+												<option>Abuelito (a)</option>
+												<option>Sobrino (a)</option>						
+												<option>Tio (a)</option>				
+												<option>Otro</option>																					
 										</select>
 									</div>
 									<div class="form-group">
@@ -1054,7 +1066,7 @@
 							</div>	
 						</div>
 						<button type="submit" class="btn btn-default">Registrar</button>
-						<br>Nota: Si usted solicita el servicio por alguien más o si usted requiere el servicio médico con su médico de confianza, favor de ponerse en contacto con nosotros mediante nuestro correo o número telefónico.
+						<br>Nota: Si usted requiere el servicio médico con su doctor de confianza, favor de ponerse en contacto con nosotros mediante nuestro correo o número telefónico.
 					</form>
 				</div>
 
